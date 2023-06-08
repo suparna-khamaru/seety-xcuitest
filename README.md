@@ -11,5 +11,5 @@ Steps automated:
 
 
 
-https://github.com/suparna-khamaru/seety-xcuitest/assets/20335757/0afc75a6-5f88-4ad1-a0ff-facf4a60b2ee
+https://github.com/suparna-khamaru/seety-xcuitest/assets/20335757/67097448-c504-4563-98ab-73399544a2f9
 
