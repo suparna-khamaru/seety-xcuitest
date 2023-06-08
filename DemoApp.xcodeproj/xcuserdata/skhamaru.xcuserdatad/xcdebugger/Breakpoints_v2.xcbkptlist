@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "84280196-1595-4004-9301-B84BDDDC1F99"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6332F26D-4753-4935-AD6E-D9C9D061C381"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoAppUITests/Seety.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "Seety"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6332F26D-4753-4935-AD6E-D9C9D061C381 - 1eb383c060b7c083"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoAppUITests.Seety.testExample() throws -&gt; ()"
+                  moduleName = "DemoAppUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skhamaru/Documents/browserstack/DemoApp/DemoAppUITests/Seety.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "6332F26D-4753-4935-AD6E-D9C9D061C381 - b232758d3c8913b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoAppUITests.Seety.testSearchLocation() throws -&gt; ()"
+                  moduleName = "DemoAppUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skhamaru/Documents/browserstack/DemoApp/DemoAppUITests/Seety.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B24E443F-9539-43E4-A108-3006D43A3686"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoAppUITests/Seety.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "testExample()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B24E443F-9539-43E4-A108-3006D43A3686 - 1eb383c060b7fe37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoAppUITests.Seety.testExample() throws -&gt; ()"
+                  moduleName = "DemoAppUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skhamaru/Documents/browserstack/DemoApp/DemoAppUITests/Seety.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "B24E443F-9539-43E4-A108-3006D43A3686 - 1eb383c060b7fe37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoAppUITests.Seety.testExample() throws -&gt; ()"
+                  moduleName = "DemoAppUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skhamaru/Documents/browserstack/DemoApp/DemoAppUITests/Seety.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
